@@ -1,5 +1,4 @@
 [
-  "poop"
   "beaner",
   "beaners",
   "camel jockey",
