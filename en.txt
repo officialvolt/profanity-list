@@ -1,110 +1,112 @@
-beaner
-beaners
-camel jockey
-camel jockies
-cameljockey
-cameljockies
-cheese eating surrender monkey
-cheese-eating surrender monkey
-china man
-china men
-chinaman
-chinamen
-ching chong
-ching-chong
-chink
-chinks
-chinky
-coon
-coons
-curry muncher
-curry-muncher
-currymuncher
-darkey
-darkie
-darkies
-darky
-doon coon
-dooncoon
-dune coon
-dune-coon
-gaysian
-golliwog
-gollywog
-gook
-gook-eye
-gookie
-gooks
-gooky
-greaseball
-hadji
-haji
-hajji
-heimie
-honkey
-honkeys
-honkies
-honky
-hymie
-jap
-jigaboo
-jiggerboo
-kike
-kraut
-krauts
-mayonnaise monkey
-mayonnaise monkies
-mexican pancake
-nambla
-negro
-nig nog
-nigerian hurricane
-nigga
-nigger
-niggs
-nignog
-oklahomo
-paki
-pansy
-pikey
-pikeys
-rag head
-rag heads
-raghead
-ragheads
-ramen yarmulke
-rice queen
-sand nigger
-sand-nigger
-sandnigger
-slant eye
-slant-eye
-slanteye
-spearchucker
-spic
-spick
-spicks
-spics
-spicy gringo
-swamp guinea
-swamp-guinea
-towel head
-towel-head
-towelhead
-timber nigger
-timber-nigger
-timbernigger
-wagon burner
-wagon-burner
-wet back
-wet-back
-wetback
-whigger
-wigga
-wigger
-wog
-wogs
-yellow shower
-zipper head
-zipper-head
-zipperhead
+[
+  "beaner",
+  "beaners",
+  "camel jockey",
+  "camel jockies",
+  "cameljockey",
+  "cameljockies",
+  "cheese eating surrender monkey",
+  "cheese-eating surrender monkey",
+  "china man",
+  "china men",
+  "chinaman",
+  "chinamen",
+  "ching chong",
+  "ching-chong",
+  "chink",
+  "chinks",
+  "chinky",
+  "coon",
+  "coons",
+  "curry muncher",
+  "curry-muncher",
+  "currymuncher",
+  "darkey",
+  "darkie",
+  "darkies",
+  "darky",
+  "doon coon",
+  "dooncoon",
+  "dune coon",
+  "dune-coon",
+  "gaysian",
+  "golliwog",
+  "gollywog",
+  "gook",
+  "gook-eye",
+  "gookie",
+  "gooks",
+  "gooky",
+  "greaseball",
+  "hadji",
+  "haji",
+  "hajji",
+  "heimie",
+  "honkey",
+  "honkeys",
+  "honkies",
+  "honky",
+  "hymie",
+  "jap",
+  "jigaboo",
+  "jiggerboo",
+  "kike",
+  "kraut",
+  "krauts",
+  "mayonnaise monkey",
+  "mayonnaise monkies",
+  "mexican pancake",
+  "nambla",
+  "negro",
+  "nig nog",
+  "nigerian hurricane",
+  "nigga",
+  "nigger",
+  "niggs",
+  "nignog",
+  "oklahomo",
+  "paki",
+  "pansy",
+  "pikey",
+  "pikeys",
+  "rag head",
+  "rag heads",
+  "raghead",
+  "ragheads",
+  "ramen yarmulke",
+  "rice queen",
+  "sand nigger",
+  "sand-nigger",
+  "sandnigger",
+  "slant eye",
+  "slant-eye",
+  "slanteye",
+  "spearchucker",
+  "spic",
+  "spick",
+  "spicks",
+  "spics",
+  "spicy gringo",
+  "swamp guinea",
+  "swamp-guinea",
+  "towel head",
+  "towel-head",
+  "towelhead",
+  "timber nigger",
+  "timber-nigger",
+  "timbernigger",
+  "wagon burner",
+  "wagon-burner",
+  "wet back",
+  "wet-back",
+  "wetback",
+  "whigger",
+  "wigga",
+  "wigger",
+  "wog",
+  "wogs",
+  "yellow shower",
+  "zipper head",
+  "zipper-head",
+  "zipperhead"
+]
